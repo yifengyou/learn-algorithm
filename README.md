@@ -26,15 +26,6 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 * acm俱乐部:<http://www.acmclub.cn/>
 
-
-## 参考书籍
-
-![1531923683871.png](image/1531923683871.png)
-
-![1531923760670.png](image/1531923760670.png)
-
-![1531923420448.png](image/1531923420448.png)
-
 ## 目录
 
 * [十大经典排序算法](docs/十大经典排序算法/十大经典排序算法.md)
@@ -63,12 +54,30 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [分治算法](docs/五大常用算法/分治算法.md)
     * [回溯算法](docs/五大常用算法/回溯算法.md)
     * [ 分支限界算法](docs/五大常用算法/ 分支限界算法.md)
+* [高频算法题](docs/高频算法题/高频算法题.md)
+    * [倒序打印一个单链表](docs/高频算法题/倒序打印一个单链表.md)
+    * [反转单链表](docs/高频算法题/反转单链表.md)
+    * [两个栈实现一个队列](docs/高频算法题/两个栈实现一个队列.md)
+    * [int型的数中二进制中的个数](docs/高频算法题/int型的数中二进制中的个数.md)
+    * [判断字符串子串](docs/高频算法题/判断字符串子串.md)
+    * [两个链表找公共节点](docs/高频算法题/两个链表找公共节点.md)
+    * [找链表倒数第K个节点](docs/高频算法题/找链表倒数第K个节点.md)
 
 ## 参考博客
 
 
 * 来自师范的学渣:<https://blog.csdn.net/qq_40788630/article/details/79503946>
 * 郭耀华's Blog:<https://www.cnblogs.com/guoyaohua/p/8600214.html>
+* 尘语凡心:<https://www.jianshu.com/p/42f81846c0fb>
+* Miracles happen every day:<https://blog.csdn.net/hactrox/article/details/38775209>
+
+## 参考书籍
+
+![1531923683871.png](image/1531923683871.png)
+
+![1531923760670.png](image/1531923760670.png)
+
+![1531923420448.png](image/1531923420448.png)
 
 
 
