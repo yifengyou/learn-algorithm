@@ -53,7 +53,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [动态规划算法](docs/五大常用算法/动态规划算法.md)
     * [分治算法](docs/五大常用算法/分治算法.md)
     * [回溯算法](docs/五大常用算法/回溯算法.md)
-    * [ 分支限界算法](docs/五大常用算法/ 分支限界算法.md)
+    * [分支限界算法](docs/五大常用算法/分支限界算法.md)
 * [高频算法题](docs/高频算法题/高频算法题.md)
     * [倒序打印一个单链表](docs/高频算法题/倒序打印一个单链表.md)
     * [反转单链表](docs/高频算法题/反转单链表.md)
@@ -80,7 +80,6 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 ![1531923420448.png](image/1531923420448.png)
 
 
-
 ## 总结
 
 ```
@@ -88,3 +87,5 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * 写代码是一种艺术，而不是搬砖~
 * 理论联系实际，知道怎么操作，代码要会写，源码要看的懂~
 ```
+
+PS:仅为个人学习笔记总结，没有半毛钱商业利益。很多内容摘自网络，博主别打我。看不惯绕道。能学到东西才是最要紧的~
