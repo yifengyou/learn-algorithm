@@ -39,6 +39,8 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [计数排序](docs/十大经典排序算法/计数排序.md)
     * [桶排序](docs/十大经典排序算法/桶排序.md)
     * [冒泡排序](docs/十大经典排序算法/冒泡排序.md)
+    * [基数排序](docs/十大经典排序算法/基数排序.md)
+    * [基数排序vs计数排序vs桶排序](docs/十大经典排序算法/基数排序vs计数排序vs桶排序.md)
 * [七大经典查找算法](docs/七大经典查找算法/七大经典查找算法.md)
     * [顺序查找](docs/七大经典查找算法/顺序查找.md)
     * [二分查找](docs/七大经典查找算法/二分查找.md)
