@@ -29,12 +29,11 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 ## 目录
 
 * [十大经典排序算法](docs/十大经典排序算法/十大经典排序算法.md)
-    * [快速排序](docs/十大经典排序算法/快速排序.md)
+    * [快速排序-*常考必掌握*](docs/十大经典排序算法/快速排序.md)
     * [选择排序](docs/十大经典排序算法/选择排序.md)
     * [插入排序](docs/十大经典排序算法/插入排序.md)
     * [希尔排序](docs/十大经典排序算法/希尔排序.md)
     * [归并排序](docs/十大经典排序算法/归并排序.md)
-    * [快速排序](docs/十大经典排序算法/快速排序.md)
     * [堆排序](docs/十大经典排序算法/堆排序.md)
     * [计数排序](docs/十大经典排序算法/计数排序.md)
     * [桶排序](docs/十大经典排序算法/桶排序.md)
