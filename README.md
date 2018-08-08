@@ -64,6 +64,14 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [两个链表找公共节点](docs/高频算法题/两个链表找公共节点.md)
     * [找链表倒数第K个节点](docs/高频算法题/找链表倒数第K个节点.md)
 
+## 思维导图
+
+![1533705171613.png](image/1533705171613.png)
+
+![1533705189887.png](image/1533705189887.png)
+
+
+
 ## 参考博客
 
 * 郭耀华's Blog:<https://www.cnblogs.com/guoyaohua/p/8600214.html>
