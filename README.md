@@ -58,15 +58,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [找链表倒数第K个节点](docs/高频算法题/找链表倒数第K个节点.md)
     * [两个链表找公共节点](docs/高频算法题/两个链表找公共节点.md)
     * [字符串分割](docs/高频算法题/字符串分割.md)
-
-## 思维导图
-
-![1533705171613.png](image/1533705171613.png)
-
-![1533705189887.png](image/1533705189887.png)
-
-![1534295493401.png](image/1534295493401.png)
-
+* [思维导图](docs/思维导图.md)
 
 ## 参考博客
 

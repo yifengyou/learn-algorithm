@@ -1,6 +1,8 @@
 # Python输入输出
 
-## 字符串
+## 单行输入
+
+* 字符串
 
 单行：
 
@@ -31,33 +33,7 @@ line = input()
 print(line) # 输出为字符串
 ```
 
-多行：
-
-```
-import sys
-
-
-data=[]
-while True:
-  line = sys.stdin.readline().strip() # 此处也可以用input实现, line=input().strip()
-  if not line:
-      break
-data.append(line)
-print(" + ".join(data))
-```
-
-比如输入
-```
-1
-
-2
-
-3
-```
-输出：```1 + 2 + 3```
-
-
-## 数字、小数
+* 数字、小数
 
 ```
 n=int(input())
@@ -69,7 +45,7 @@ n=float(input())
 print(n) # 输出为小数
 ```
 
-## 单行输入输出为数组
+* 单行输入输出为数组
 
 ```
 l = list(  map( int , input().split(" ")  ) )
@@ -99,6 +75,89 @@ print(l)
 
 ![20210130_165303_26](image/20210130_165303_26.png)
 
+
+## 多行输入
+
+* 给定行数
+
+```
+n = int(input())
+data = []
+for _ in range(n):
+    line = input()
+    data.append(line)
+print(data)
+```
+
+![20210130_173834_48](image/20210130_173834_48.png)
+
+* 不给定行数
+
+```
+import sys
+
+data=[]
+while True:
+  line = sys.stdin.readline().strip() # 此处也可以用input实现, line=input().strip()
+  if not line:
+      break
+data.append(line)
+print(" + ".join(data))
+```
+
+比如输入
+```
+1
+
+2
+
+3
+```
+输出：
+
+```1 + 2 + 3```
+
+输入可能Ctrl+D、Ctrl+Z结尾，所以可以加except处理
+
+```
+res = []
+while True:
+    try:
+        s = input()
+        # res.append(list(map(int, s.split(' '))))
+        res.append(list(map(str, s.split(' '))))
+    except:
+        break
+```
+
+## 输入转为特定类型的列表
+
+* 注意类型
+
+```
+input_list = list(map(int, input().strip().split(' ')))
+input_list = list(map(str, input().strip().split(' ')))
+input_list = list(map(float, input().strip().split(' ')))
+```
+![20210130_174448_38](image/20210130_174448_38.png)
+
+## 单行输入赋值给多个变量（固定数量）
+
+```
+a,b,c = [int(i) for i in input().split()]
+print(a,b,c)
+```
+
+![20210130_174751_22](image/20210130_174751_22.png)
+
+```
+n, m = map(int, sys.stdin.readline().strip().split())
+n, m = map(int, input().strip().split())
+```
+
+![20210130_175131_80](image/20210130_175131_80.png) 
+
+
 ## 输出形式为矩阵
 
 * 矩阵实为列表的列表
@@ -117,23 +176,10 @@ while True:
 print(data)
 ```
 
-## 链表
+## 输出不换行
 
 ```
-class ListNode (object):
-    def __init__(self, data):
-        self.data = data
-        self.next = None
-```
-
-## 二叉树
-
-```
-class TreeNode (object):
-    def __init__(self, data, left = None, right = None):
-        self.Left = None
-        self.Right = None
-        self.data = data
+print("output content", end='')
 ```
 
 ---
