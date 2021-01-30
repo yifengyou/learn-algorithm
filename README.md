@@ -1,9 +1,9 @@
-# 算法笔记
+# 算法学习笔记
 
 ## 本仓库内容
 
 1. 常用算法分析及源码
-2. 剑指offer面试题及源码
+2. 剑指 Offer 面试题及源码
 2. 牛客网刷题笔记
 
 ```
@@ -15,31 +15,24 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 ## 相关站点
 
 * GitHub地址:<https://github.com/yifengyou/learn-algorithm>
-
 * GitBook地址:<https://yifengyou.gitbooks.io/learn-algorithm/content/>
-
-* leetcode:<https://leetcode.com/>
-
-* leetcode中国站:<https://leetcode-cn.com/explore/>
-
+* LeetCode中国站:<https://leetcode-cn.com>
 * 南阳理工:<http://acm.nyist.edu.cn/JudgeOnline/login.php>
-
-* acm俱乐部:<http://www.acmclub.cn/>
+* ACM俱乐部:<http://www.acmclub.cn/>
 
 ## 目录
 
 * [十大经典排序算法](docs/十大经典排序算法/十大经典排序算法.md)
-    * [快速排序-*常考必掌握*](docs/十大经典排序算法/快速排序.md)
+    * [快速排序](docs/十大经典排序算法/快速排序.md)
     * [选择排序](docs/十大经典排序算法/选择排序.md)
-    * [插入排序](docs/十大经典排序算法/插入排序.md)
+    * [插入排序(**稳定**)](docs/十大经典排序算法/插入排序.md)
     * [希尔排序](docs/十大经典排序算法/希尔排序.md)
-    * [归并排序](docs/十大经典排序算法/归并排序.md)
+    * [归并排序(**稳定**)](docs/十大经典排序算法/归并排序.md)
     * [堆排序](docs/十大经典排序算法/堆排序.md)
     * [计数排序](docs/十大经典排序算法/计数排序.md)
     * [桶排序](docs/十大经典排序算法/桶排序.md)
-    * [冒泡排序](docs/十大经典排序算法/冒泡排序.md)
-    * [基数排序](docs/十大经典排序算法/基数排序.md)
-    * [基数排序vs计数排序vs桶排序](docs/十大经典排序算法/基数排序vs计数排序vs桶排序.md)
+    * [冒泡排序(**稳定**)](docs/十大经典排序算法/冒泡排序.md)
+    * [基数排序(**稳定**)](docs/十大经典排序算法/基数排序.md)
 * [七大经典查找算法](docs/七大经典查找算法/七大经典查找算法.md)
     * [顺序查找](docs/七大经典查找算法/顺序查找.md)
     * [二分查找](docs/七大经典查找算法/二分查找.md)
@@ -63,6 +56,8 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [判断字符串子串](docs/高频算法题/判断字符串子串.md)
     * [两个链表找公共节点](docs/高频算法题/两个链表找公共节点.md)
     * [找链表倒数第K个节点](docs/高频算法题/找链表倒数第K个节点.md)
+    * [两个链表找公共节点](docs/高频算法题/两个链表找公共节点.md)
+    * [字符串分割](docs/高频算法题/字符串分割.md)
 
 ## 思维导图
 
@@ -71,7 +66,6 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 ![1533705189887.png](image/1533705189887.png)
 
 ![1534295493401.png](image/1534295493401.png)
-
 
 
 ## 参考博客
