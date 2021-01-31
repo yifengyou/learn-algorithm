@@ -29,6 +29,9 @@ del a[索引号]
 .count # 出现次数
 ```
 
+* sort是容器的函数：sort(cmp=None, key=None, reverse=False)
+* sorted是python的内建函数：sorted(iterable, cmp=None, key=None, reverse=False)
+
 对于sort和reverse都是list列表的内置函数，一般不传参数，没有返回值，会改变原列表的值。
 而sorted和reversed是python内置函数，需要传参数，参数可以是字符串，列表，字典，元组，不管传的参数是什么sorted返回的都是列表，reversed返回的都是迭代器，原参数的值不会发生改变。
 
@@ -41,3 +44,5 @@ del a[索引号]
 
 * sort()
 * sorted()
+
+![20210131_094127_62](image/20210131_094127_62.png) 
